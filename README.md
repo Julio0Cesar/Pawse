@@ -33,7 +33,7 @@ Pawsse is a simple virtual pet game where you need to take care of a pet by clic
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Julio0Cesar/Pawse
 cd pawse
 ```
 
